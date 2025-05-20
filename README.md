@@ -28,6 +28,8 @@ Explorei os dados inicialmente analisando a quantidade de registros por tipo de 
 
 ## 📈 Compartilhar
 Data Visualizations: [Tableau](https://public.tableau.com/views/CaseStudyCyclistic_17477742416860/BikeTypeDistributionbyUserType?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Image](https://github.com/user-attachments/assets/a3785d64-e505-49a7-ba59-d94aeb45494a)
+![Image](https://github.com/user-attachments/assets/de73c837-2488-432b-8c62-1d249bb43ebb)
 
 ---
 
