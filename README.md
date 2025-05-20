@@ -34,8 +34,6 @@ Data Visualizations: [Tableau](https://public.tableau.com/views/CaseStudyCyclist
 ## 🚀 Agir
 Com base na exploração e análise dos dados, algumas estratégias de marketing podem ser adotadas para aumentar o engajamento e a conversão de ciclistas casuais em membros, bem como incentivar maior uso do serviço. As recomendações são:
 
--> Ofertas direcionadas para fins de semana: Os ciclistas casuais apresentam maior atividade durante os fins de semana. Portanto, uma estratégia eficaz seria oferecer planos ou assinaturas específicas para esse período, tornando a adesão mais atrativa para esse perfil de usuário.
-
--> Foco fora do tipo de bicicleta: A distribuição do uso por tipo de bicicleta é relativamente equilibrada entre membros e ciclistas casuais. Sendo assim, o tipo de bicicleta não representa um fator decisivo de diferenciação, e estratégias de marketing não devem priorizar essa variável.
-
--> Promoções com base na duração da viagem: Ciclistas casuais tendem a realizar viagens mais longas do que os membros. Dessa forma, oferecer descontos ou recompensas para passeios de maior duração pode incentivar ainda mais o uso por esse grupo e estimular os membros a prolongarem suas viagens.
+- Ofertas direcionadas para fins de semana: Os ciclistas casuais apresentam maior atividade durante os fins de semana. Portanto, uma estratégia eficaz seria oferecer planos ou assinaturas específicas para esse período, tornando a adesão mais atrativa para esse perfil de usuário.
+- Foco fora do tipo de bicicleta: A distribuição do uso por tipo de bicicleta é relativamente equilibrada entre membros e ciclistas casuais. Sendo assim, o tipo de bicicleta não representa um fator decisivo de diferenciação, e estratégias de marketing não devem priorizar essa variável.
+- Promoções com base na duração da viagem: Ciclistas casuais tendem a realizar viagens mais longas do que os membros. Dessa forma, oferecer descontos ou recompensas para passeios de maior duração pode incentivar ainda mais o uso por esse grupo e estimular os membros a prolongarem suas viagens.
